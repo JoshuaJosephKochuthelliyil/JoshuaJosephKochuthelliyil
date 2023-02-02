@@ -11,7 +11,7 @@ CS Topics: Mobile App Development (11th grade - current)
 My favorite colour is red. My favorite food is fish fry.
 In addition to computer science, I like video games, Dungeons and Dragons, and lifting weights.
 
-
+I look forward to working with you.
 
 
 
