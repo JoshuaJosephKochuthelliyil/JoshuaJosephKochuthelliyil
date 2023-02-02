@@ -1,4 +1,17 @@
 ### Hello! 👋 I'm Joshua Joseph Kochuthelliyil!
+I'm currently a highschool student attending South Brunswick High School.
+
+My current computer science education is as follows -
+Computer Science in the 21st Century (9th grade)
+AP Computer Science A (10th grade)
+AP Computer Science A Exam (5)
+CS Topics: Virtual Reality & Game Design (11th grade - current)
+CS Topics: Mobile App Development (11th grade - current)
+
+My favorite colour is red. My favorite food is fish fry.
+In addition to computer science, I like video games, Dungeons and Dragons, and lifting weights.
+
+
 
 
 
