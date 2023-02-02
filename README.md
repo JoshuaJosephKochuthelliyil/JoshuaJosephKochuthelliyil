@@ -2,6 +2,7 @@
 I'm currently a highschool student attending South Brunswick High School.
 
 My current computer science education is as follows -
+
 Computer Science in the 21st Century (9th grade)
 AP Computer Science A (10th grade)
 AP Computer Science A Exam (5)
