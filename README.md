@@ -9,9 +9,15 @@ AP Computer Science A (10th grade)
 
 AP Computer Science A Exam (5)
 
-CS Topics: Virtual Reality & Game Design (11th grade - current)
+CS Topics: Virtual Reality & Game Design (11th grade)
 
-CS Topics: Mobile App Development (11th grade - current)
+CS Topics: Mobile App Development (11th grade)
+
+AP Computer Science Principals (12 grade)
+
+CS Topics: Data Structures (12th grade)
+
+Computer Science Capstone (12th grade)
 
 My favorite colour is red. My favorite food is fish fry.
 In addition to computer science, I like video games, Dungeons and Dragons, and lifting weights.
